@@ -1,5 +1,7 @@
 # thebennyblog
 
+Main site link: https://bennyqbd.github.io/thebennyblog/
+
 Empty README for now. Currently the project is being initialized.
 
 The ultimate master secret of this project is yet to be recorded here...
