@@ -27,4 +27,6 @@ Either way, it's great to talk to you again, and I look forward to seeing you so
 
 <br/>
 'Til then,<br/>
-Benny
+Benny<br/><br/>
+
+[Leave a comment](https://github.com/BennyQBD/thebennyblog/issues/1)
