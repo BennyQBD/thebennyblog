@@ -8,7 +8,7 @@ What's this about?
 
 Well, mainly, that writing my "about" page hasn't been a significant priority yet. Sorry about that!
 
-But basically, I'm Benny. I write code, make videos, and I like to share interesting things I learn with people through those videos, code and writing.
+But basically, I'm Benny. I write code, I make videos, and I like to share interesting things I learn with people through videos and writing.
 
 Wanna know more?
 

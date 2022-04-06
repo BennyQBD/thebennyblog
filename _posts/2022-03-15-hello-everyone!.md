@@ -30,3 +30,6 @@ Either way, it's great to talk to you again, and I look forward to seeing you so
 Benny<br/><br/>
 
 [Leave a comment](https://github.com/BennyQBD/thebennyblog/issues/1)
+
+---
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
